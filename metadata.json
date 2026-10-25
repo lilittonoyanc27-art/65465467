@@ -1,0 +1,6 @@
+{
+  "name": "Lengua Castellana y Literatura — 1.º ESO",
+  "description": "Libro de texto interactivo y simulador de exámenes bilingüe (español - armenio) para 1.º de la ESO con teoría detallada, figuras literarias, comprensión lectora y más de 250 actividades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
